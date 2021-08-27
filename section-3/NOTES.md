@@ -4,3 +4,6 @@
 4. [https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
 5. [https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
 6. [https://docs.docker.com/config/formatting/](https://docs.docker.com/config/formatting/)
+7. [https://www.oracle.com/cloud/networking/dns/](https://www.oracle.com/cloud/networking/dns/)
+8. [https://howdns.works/](https://howdns.works/)
+9. [https://en.wikipedia.org/wiki/Round-robin_DNS](https://en.wikipedia.org/wiki/Round-robin_DNS)
